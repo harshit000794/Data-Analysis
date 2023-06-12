@@ -5,7 +5,7 @@ I have a short description of the what the projects are about. To see the full a
 
 Projects: 
 
-Understanding the purchasing behaviour of customers of a Grocery Store
+[Understanding the purchasing behaviour of customers of a Grocery Store](https://github.com/harshit000794/Data-Analysis/blob/main/Customer_Purchase_Analysis.ipynb)
 
 The purpose of this analysis is to understand the purchase behaviour of different customer segments of a Grocery Store specifically the chips purchasing behaviour
 so that the Chips Category Manager can decide which brands are popular among which segments, what are the price preferences of different segments so that they can
