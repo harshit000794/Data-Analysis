@@ -1,9 +1,9 @@
-Data Analytics Portfolio:
+# Data Analytics Portfolio:
 
 A repository of projects that I have done or I am working on solving different problems through data analytics.
 I have a short description of the what the projects are about. To see the full analysis and code, click on the link below.
 
-Projects: 
+## Projects: 
 
 [Understanding the purchasing behaviour of customers of a Grocery Store](https://github.com/harshit000794/Data-Analysis/blob/main/Customer_Purchase_Analysis.ipynb)
 
